@@ -57,7 +57,7 @@ void handleNewMessages(int numNewMessages) {
       welcome += "/R right turn \n ";
       welcome += "/RF right+forward \n ";
       welcome += "/S Stop \n";
-      welcome += "/Spn Stop \n";
+      welcome += "/Spn spin \n";
       welcome += "/B1 buzzer on \n";
       welcome += "/c0 servo at 0 deg \n";
       welcome += "/c1 servo at 15 deg \n";
